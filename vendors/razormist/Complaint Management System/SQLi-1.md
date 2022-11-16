@@ -1,6 +1,6 @@
 # Complaint Management System v1.0 by razormist has SQL injection
 
-BUG_Author: 
+BUG_Author: twinklx
 
 vendors:https://www.sourcecodester.com/php/14206/complaint-management-system.html
 
